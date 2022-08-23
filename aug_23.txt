@@ -1,0 +1,1 @@
+This is a program that helps you calculate your electricity bills but the logic can be applied in order to create other bill calculators and automate your expense system.
