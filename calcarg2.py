@@ -8,7 +8,7 @@ if op == '+':
     res = a + b
 elif op == '-':
     res = a - b
-elif op == '*':
+elif op == 'x':
     res = a * b
 elif op == '/':
     res = a / b
