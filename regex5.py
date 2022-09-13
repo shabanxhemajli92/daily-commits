@@ -18,5 +18,5 @@ email_match = re.findall(r'[\w.+-]+@[\w-]+\.[\w.-]+',text)#prints the emails
 print(email_match)
 somthelse_match=re.findall(r'\d+\w+\w',text)#prints the first part of the 2pac emails till the @ char
 print(somthelse_match)
-somthelse_match2=re.search(r'\w+[^abc]+.I',text)#prints Okay I and boy how I
+somthelse_match2=re.findall(r'\w+[^abc]+.I',text)#prints Okay I and boy how I
 print(somthelse_match2)
